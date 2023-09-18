@@ -1,0 +1,719 @@
+1
+00:00:01,200 --> 00:00:06,150
+¿En tu opinión cual es la probabilidad de éxito de ésta misión?
+
+2
+00:00:08,080 --> 00:00:12,060
+La probabilidad de éxito de ésta misión es cero.
+
+3
+00:00:12,540 --> 00:00:16,430
+Lucharé y viviré para tomar la cabeza del Kakuseisha Priscilla.
+
+4
+00:00:18,670 --> 00:00:22,590
+Sobrevivamos a ésta pelea, no importa cómo.
+
+5
+00:00:23,920 --> 00:00:25,600
+Tienes compañeras aquí.
+
+6
+00:00:26,100 --> 00:00:29,310
+Te ayudaremos en lo que no puedas hacer sola.
+
+7
+00:00:29,740 --> 00:00:34,910
+Así que no hagas todo por tí misma... Capitana Undine.
+
+8
+00:00:35,730 --> 00:00:39,720
+Una vez que te haz encontrado con un Morador de la Profundidad\Ndeberías saber eso.
+
+9
+00:00:40,570 --> 00:00:42,320
+No es nada como ésto.
+
+10
+00:00:42,321 --> 00:00:46,820
+Si el Morador de la Profundidad,\NEasley del Norte, se hubiera puesto serio...
+
+11
+00:00:47,930 --> 00:00:48,620
+Ya vienen.
+
+12
+00:02:13,910 --> 00:02:15,920
+Vayamos... hacia el Sur...
+
+13
+00:02:16,660 --> 00:02:18,090
+...hacia Pieta...
+
+14
+00:02:19,720 --> 00:02:23,990
+Para cuando lleguemos allí, todo debe haber terminado.
+
+15
+00:02:39,800 --> 00:02:42,610
+¿Estás en Pieta, Clare?
+
+16
+00:03:13,340 --> 00:03:16,310
+Los enemigos en ésta ocasión son de un nivel totalmente diferente a los de antes.
+
+17
+00:03:16,829 --> 00:03:17,470
+De hecho.
+
+18
+00:03:18,090 --> 00:03:19,260
+La calidad del Yoki,
+
+19
+00:03:19,610 --> 00:03:20,420
+el tamaño del Yoki,
+
+20
+00:03:20,930 --> 00:03:21,690
+la cantidad de ellos,
+
+21
+00:03:22,050 --> 00:03:23,370
+todo...
+
+22
+00:03:48,060 --> 00:03:49,440
+Ya veo.
+
+23
+00:03:49,760 --> 00:03:53,700
+Ésos tres... no han vuelto...
+
+24
+00:03:58,130 --> 00:04:02,200
+Te dije que esos tres no estaban capacitados para una misión como ésta.
+
+25
+00:04:02,500 --> 00:04:05,690
+Podría decir que fueron derrotados a partir del primer minuto.
+
+26
+00:04:06,370 --> 00:04:08,770
+Si me hubieras dejado la misión a mí...
+
+27
+00:04:08,771 --> 00:04:10,000
+Todo está bien.
+
+28
+00:04:10,001 --> 00:04:11,870
+No me importaba mucho si volvían.
+
+29
+00:04:12,940 --> 00:04:17,510
+Los envié para no tener pérdidas de importancia, fue como una prueba.
+
+30
+00:04:18,690 --> 00:04:25,510
+Ahora sé que hay bastantes refuerzos en Pieta como para haber matado a esos tres.
+
+31
+00:04:26,070 --> 00:04:27,620
+Eso, de por sí, es bastante bueno para mí.
+
+32
+00:04:30,030 --> 00:04:32,860
+¿Y dijiste tener confianza en la misión?
+
+33
+00:04:33,230 --> 00:04:38,960
+Eres una de ésas personas que pierde el control\Nuna vez que el fuego se enciende dentro de ti, ¿no?
+
+34
+00:04:40,159 --> 00:04:42,010
+¿Eh? ¿Rey León de los Ojos Plateados?
+
+35
+00:04:44,659 --> 00:04:47,370
+Si es posible, ¿podrías no llamarme por ése apodo?
+
+36
+00:04:48,270 --> 00:04:49,380
+Perdóname.
+
+37
+00:04:49,381 --> 00:04:51,030
+Ésa es una historia del pasado, ¿eh?
+
+38
+00:04:52,470 --> 00:04:57,190
+De cualquier manera, si hay bastantes fuerzas presentes en Pieta,
+
+39
+00:04:57,490 --> 00:05:00,350
+entonces también responderemos de una manera apropiada.
+
+40
+00:05:02,480 --> 00:05:03,650
+La hora ha llegado.
+
+41
+00:05:04,550 --> 00:05:06,990
+Junta a los Kakuseisha.
+
+42
+00:05:07,770 --> 00:05:10,220
+Aseguren el paso al Sur.
+
+43
+00:05:10,221 --> 00:05:10,800
+¡Sí!
+
+44
+00:05:28,340 --> 00:05:35,620
+Con el ejército del Norte de veintisiete, aniquilaremos Pieta, la primera ciudad de Alphonse.
+
+45
+00:05:36,220 --> 00:05:40,960
+Esencialmente se converirá en una ciudad sin una sola señal de vida.
+
+46
+00:05:41,340 --> 00:05:43,700
+En mi nombre, Easley...
+
+47
+00:05:44,320 --> 00:05:47,980
+...¡¡¡acaba con la vida hasta del más pequeño insecto!!!
+
+48
+00:06:02,620 --> 00:06:04,420
+¿Cómo va la evacuación de los civiles?
+
+49
+00:06:04,421 --> 00:06:06,240
+Ya se ha terminado.
+
+50
+00:06:06,870 --> 00:06:08,800
+¿Y cómo van los heridos?
+
+51
+00:06:08,801 --> 00:06:12,230
+El brazo izquierdo de Yuma no se ha curado totalmente,
+
+52
+00:06:12,231 --> 00:06:14,620
+pero no debe ser incómodo para ella.
+
+53
+00:06:15,300 --> 00:06:16,340
+Ya veo.
+
+54
+00:06:18,480 --> 00:06:21,590
+Al final, ¿cuántas de nosotras sobreviviremos a ésta guerra?
+
+55
+00:06:23,120 --> 00:06:25,390
+No, debemos...
+
+56
+00:06:48,360 --> 00:06:49,790
+...¡Debemos sobrevivir!
+
+57
+00:06:49,791 --> 00:06:51,260
+¡¡¡Ohh!!!
+
+58
+00:07:26,760 --> 00:07:27,630
+¡¿Qué?!
+
+59
+00:07:34,060 --> 00:07:35,140
+¡Pamela!
+
+60
+00:07:37,570 --> 00:07:39,340
+¡¿Uh, en ése lado?!
+
+61
+00:07:41,980 --> 00:07:42,940
+¡Claudia!
+
+62
+00:08:00,300 --> 00:08:02,380
+Sobreviviré no importa cómo.
+
+63
+00:08:03,160 --> 00:08:05,830
+Yo... sobreviviré...
+
+64
+00:08:22,180 --> 00:08:23,010
+¿Easley?
+
+65
+00:08:27,610 --> 00:08:28,710
+Lejos de aquí,
+
+66
+00:08:28,711 --> 00:08:31,800
+las vidas momentáneas están desapareciendo una tras otra,
+
+67
+00:08:32,980 --> 00:08:35,309
+y creo que éso es encantador.
+
+68
+00:08:43,450 --> 00:08:44,770
+Vámonos.
+
+69
+00:08:45,420 --> 00:08:47,330
+Pieta todavía está muy lejos.
+
+70
+00:08:55,280 --> 00:08:55,980
+¡¡¡Ahora!!!
+
+71
+00:09:04,300 --> 00:09:05,060
+¡Capitana!
+
+72
+00:09:11,830 --> 00:09:13,720
+¡¿Acaso es todo lo que tienes, huh?!
+
+73
+00:09:13,721 --> 00:09:16,770
+Los kakuseishas no tienen músculos, ¡¿eh?!
+
+74
+00:09:17,410 --> 00:09:18,730
+¡Púdrete!
+
+75
+00:09:21,170 --> 00:09:22,310
+¡Ahora, Deneve!
+
+76
+00:09:22,311 --> 00:09:23,550
+¡Vamos!
+
+77
+00:09:42,760 --> 00:09:43,530
+Veintiuno...
+
+78
+00:09:51,420 --> 00:09:52,410
+¡Aquí!
+
+79
+00:10:20,000 --> 00:10:22,170
+¿Sólo puedes hacer eso, eh?
+
+80
+00:10:41,830 --> 00:10:43,860
+¿Dónde diablos se están ocultando?
+
+81
+00:11:23,650 --> 00:11:25,850
+Está tomando demasiado tiempo.
+
+82
+00:11:26,460 --> 00:11:28,310
+Nuestro total de muertos son tres,
+
+83
+00:11:28,311 --> 00:11:29,600
+y ellos han perdido cinco.
+
+84
+00:11:30,460 --> 00:11:31,890
+Increíble.
+
+85
+00:11:32,400 --> 00:11:34,310
+Dada la diferencia en fuerza,
+
+86
+00:11:34,311 --> 00:11:36,340
+el progreso de ésta batalla es milagroso para ellos.
+
+87
+00:11:39,870 --> 00:11:40,650
+Uno...
+
+88
+00:11:41,400 --> 00:11:42,150
+Dos...
+
+89
+00:11:42,920 --> 00:11:43,650
+Tres...
+
+90
+00:11:44,440 --> 00:11:45,150
+Cuatro...
+
+91
+00:11:45,960 --> 00:11:46,590
+Cinco...
+
+92
+00:11:47,890 --> 00:11:50,210
+Cinco guerreras poderosas...
+
+93
+00:11:50,830 --> 00:11:55,330
+Y ésas cinco están lidereando\Nsus respectivos equipos en ésta pelea, ¿eh?
+
+94
+00:12:16,060 --> 00:12:16,860
+¡Easley!
+
+95
+00:12:17,470 --> 00:12:18,640
+¡Priscilla se ha ido!
+
+96
+00:12:20,930 --> 00:12:21,700
+¿Eh?
+
+97
+00:12:24,810 --> 00:12:25,660
+¡Priscilla!
+
+98
+00:12:27,030 --> 00:12:28,200
+¡¡¡Priscilla!!!
+
+99
+00:12:32,660 --> 00:12:33,840
+¡Priscilla!
+
+100
+00:12:33,841 --> 00:12:34,740
+¡¡¡Priscilla!!!
+
+101
+00:12:38,670 --> 00:12:40,710
+¡Monstruo!
+
+102
+00:12:43,390 --> 00:12:44,380
+¿Monstruo?
+
+103
+00:12:45,700 --> 00:12:46,600
+¡Priscilla!
+
+104
+00:12:52,400 --> 00:12:53,290
+Éso es...
+
+105
+00:13:32,230 --> 00:13:33,240
+Priscilla...
+
+106
+00:13:34,040 --> 00:13:35,190
+Estoy muy contento.
+
+107
+00:13:35,191 --> 00:13:36,360
+Estaba preocupado-
+
+108
+00:13:41,680 --> 00:13:44,350
+A-Aquí, está tu ropa-
+
+109
+00:14:00,270 --> 00:14:01,240
+Priscilla...
+
+110
+00:14:11,550 --> 00:14:13,600
+Lo siento, Miria.
+
+111
+00:14:20,040 --> 00:14:21,490
+Hay muchos de ellos...
+
+112
+00:14:22,350 --> 00:14:23,430
+A éste ritmo...
+
+113
+00:14:34,550 --> 00:14:36,510
+¿Eh? ¿A donde diablos se han ido?
+
+114
+00:14:37,670 --> 00:14:38,990
+¡¿Qué está pasando aquí?!
+
+115
+00:14:41,360 --> 00:14:42,360
+¿Qué fué eso?
+
+116
+00:14:44,170 --> 00:14:45,600
+¿Qué diablos acaba de suceder?
+
+117
+00:14:48,420 --> 00:14:50,270
+¿Qué pasa, Clare?
+
+118
+00:14:51,550 --> 00:14:52,270
+Algo...
+
+119
+00:14:53,350 --> 00:14:56,440
+Algo monstruoso está... viniendo...
+
+120
+00:15:11,980 --> 00:15:13,830
+Muy impresionante.
+
+121
+00:15:13,831 --> 00:15:16,470
+En tales circunstancias desesperantes,
+
+122
+00:15:16,950 --> 00:15:20,700
+todavía quieren hacer un camino para sobrevivir.
+
+123
+00:15:21,560 --> 00:15:27,110
+Sin embargo, no perderemos a nadie más de nuestras fuerzas.
+
+124
+00:15:38,160 --> 00:15:39,020
+Imposible...
+
+125
+00:15:42,380 --> 00:15:45,030
+Ése es... Rigardo...
+
+126
+00:15:46,120 --> 00:15:47,730
+EL Rey León de los Ojos Plateados...
+
+127
+00:15:48,380 --> 00:15:49,390
+Rigardo...
+
+128
+00:15:51,620 --> 00:15:53,770
+¿Por qué está... aquí?
+
+129
+00:15:57,420 --> 00:15:58,910
+¡La primera!
+
+130
+00:16:03,910 --> 00:16:05,910
+¡¡¡Veronica!!!
+
+131
+00:16:07,450 --> 00:16:08,950
+¡¡¡Atrás, Capitana!!!
+
+132
+00:16:12,850 --> 00:16:13,960
+Oh...
+
+133
+00:16:17,150 --> 00:16:18,680
+Impresionante.
+
+134
+00:16:19,470 --> 00:16:20,030
+Pero...
+
+135
+00:16:22,650 --> 00:16:23,770
+Maldito-
+
+136
+00:16:24,850 --> 00:16:26,170
+¡La segunda!
+
+137
+00:16:28,500 --> 00:16:29,490
+Maldición...
+
+138
+00:16:31,130 --> 00:16:32,310
+¡¡¡Undine!!!
+
+139
+00:16:47,030 --> 00:16:48,160
+Yoma...
+
+140
+00:16:55,450 --> 00:16:56,260
+Yoma.
+
+141
+00:17:38,170 --> 00:17:39,150
+Papá...
+
+142
+00:17:39,690 --> 00:17:40,640
+Mamá...
+
+143
+00:17:41,300 --> 00:17:42,450
+Hermano...
+
+144
+00:17:43,630 --> 00:17:45,380
+Hermana...
+
+145
+00:17:46,480 --> 00:17:48,890
+Po-Por qué Papá...
+
+146
+00:17:49,240 --> 00:17:50,390
+Po-Por qué Mamá...
+
+147
+00:17:51,080 --> 00:17:52,240
+¿Por qué estás diciendo éso?
+
+148
+00:18:00,030 --> 00:18:01,300
+Por qué estás diciendo éso...
+
+149
+00:18:09,200 --> 00:18:10,640
+Por qué estás diciendo éso...
+
+150
+00:18:14,000 --> 00:18:15,380
+Por qué estás... diciendo...
+
+151
+00:18:21,350 --> 00:18:23,170
+Easley...
+
+152
+00:18:24,320 --> 00:18:26,250
+Allí estás, Priscilla.
+
+153
+00:18:27,600 --> 00:18:30,260
+¿Yendo por todas partes, eh?
+
+154
+00:18:34,930 --> 00:18:37,520
+¿Easley, lo sabías?
+
+155
+00:18:38,060 --> 00:18:39,770
+¡Qué Priscilla es un Yoma!
+
+156
+00:18:41,350 --> 00:18:42,580
+Ella no lo es.
+
+157
+00:18:42,960 --> 00:18:44,270
+Ella es un Kakuseisha.
+
+158
+00:18:45,280 --> 00:18:46,890
+Algo que puede volverse a un humano.
+
+159
+00:18:52,390 --> 00:18:53,890
+¡No, Priscilla!
+
+160
+00:18:54,190 --> 00:18:56,150
+¡No puedes hacer nada al respecto!
+
+161
+00:18:56,730 --> 00:18:57,670
+¡¡¡Priscilla!!!
+
+162
+00:19:01,150 --> 00:19:02,180
+¡Detente!
+
+163
+00:19:02,830 --> 00:19:04,310
+¡No puedes hacer eso!
+
+164
+00:19:06,610 --> 00:19:08,300
+¡No puedes, maldición!
+
+165
+00:19:09,650 --> 00:19:12,130
+¡¡¡Priscilla, tienes que parar!!!
+
+166
+00:19:14,930 --> 00:19:16,420
+No llores, Priscilla.
+
+167
+00:19:16,810 --> 00:19:19,260
+Alto... Priscilla...
+
+168
+00:19:19,261 --> 00:19:20,430
+Tienes que...
+
+169
+00:19:20,970 --> 00:19:23,100
+¡Alto! ¡Tienes que hacerlo!
+
+170
+00:19:25,150 --> 00:19:27,880
+Alto... ¡¡¡Priscilla!!!
+
+171
+00:19:30,220 --> 00:19:30,850
+¡Jeane!
+
+172
+00:19:30,851 --> 00:19:32,040
+¡Regresa!
+
+173
+00:19:32,490 --> 00:19:33,670
+¡Protege a Flora!
+
+174
+00:19:38,800 --> 00:19:41,530
+¡Este individuo va por los líderes de los equipos!
+
+175
+00:19:51,290 --> 00:19:52,200
+Diecinueve...
+
+176
+00:20:01,150 --> 00:20:02,130
+Capitana...
+
+177
+00:20:05,060 --> 00:20:06,160
+Veintiuno...
+
+178
+00:20:17,860 --> 00:20:19,830
+Muy mal...
+
+179
+00:20:29,580 --> 00:20:31,850
+Je-Jeane...
+
+180
+00:20:46,390 --> 00:20:49,330
+¡¡¡Bastardo!!!
